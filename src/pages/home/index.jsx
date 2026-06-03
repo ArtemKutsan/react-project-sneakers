@@ -13,7 +13,7 @@ function HomePage() {
       <Meta title="Главная" />
 
       <Box>
-        <img src="public/images/Banner.png" alt="Баннер" />
+        <img src="/images/Banner.png" alt="Баннер" />
       </Box>
 
       <Typography
